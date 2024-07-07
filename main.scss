@@ -3,3 +3,65 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+body{
+    max-width: 1700px;
+    width: 100%;
+    min-height: 100vh;
+    //background-color: rgb(214, 109, 83);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+
+
+   
+
+   
+
+
+    h1{
+        font-size: 50px;
+        max-width: 800px;
+        margin-top: 100px;
+        padding-inline: 100px;
+        margin-block-end: 50px;
+       
+
+
+
+        .title2{
+            margin-left: 15px;
+        }
+
+        .title3{
+            margin-left: 15px;
+        }
+
+        .title6{
+            margin-left: 15px;
+        }
+
+        .title8{
+            margin-left: 15px;
+        }
+         
+ 
+
+    }
+
+    .btn{
+        max-width: 300px;
+        height: 50px;
+        padding-inline: 20px;
+        font-size: 20px;
+        border-radius: 10px 10px 10px 10px;
+        cursor: pointer;
+        margin-block-end: 50px;
+      
+       
+ 
+    }
+}
+
